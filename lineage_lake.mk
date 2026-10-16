@@ -20,6 +20,7 @@ PRODUCT_MODEL := Redmi 14C
 PRODUCT_MANUFACTURER := Xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+PRODUCT_SYSTEM_DEFAULT_PROPERTIES += ro.lineage.maintainer=ToraToru
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc="missi_phone_global-user 14 UP1A.231005.007 V816.0.10.0.UGTMIXM release-keys" \
