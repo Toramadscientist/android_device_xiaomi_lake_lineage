@@ -1,0 +1,1 @@
+# Device-Tree-lineageOS-for-Lake-Poco-c75-Redmi-14c-
