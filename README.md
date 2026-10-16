@@ -1,5 +1,3 @@
-# Device-Tree-lineageOS-for-Lake-Poco-c75/Redmi-14c
-
 # Xiaomi Redmi 14C / POCO C75 (lake)
 Helio G81 Ultra - MT6768 | Android 14
 
